@@ -48,3 +48,6 @@ function App() {
 export default App;
 
 //npm i react-router-dom@6
+// install tailwindcss
+//Install tailwind prettier plugin
+//npm install -D prettier prettier-plugin-tailwindcss
