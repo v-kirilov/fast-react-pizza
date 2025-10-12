@@ -23,7 +23,7 @@
 // }
 import { createSlice } from "@reduxjs/toolkit";
 
-const initialState = { userName: "V" };
+const initialState = { userName:""};
 
 const userSlice = createSlice({
   name: "user",
