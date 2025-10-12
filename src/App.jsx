@@ -51,3 +51,5 @@ export default App;
 // install tailwindcss
 //Install tailwind prettier plugin
 //npm install -D prettier prettier-plugin-tailwindcss
+
+//npm i @reduxjs/toolkit react-redux
