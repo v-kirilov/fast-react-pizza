@@ -27,7 +27,6 @@ function CreateOrder() {
     error: errorAddress,
   } = useSelector((state) => state.user);
   const isLoadingAddress = addressStatus === "loading";
-  console.log(errorAddress);
   //Take data from the action function, most commonly used to get errors
   const formErrors = useActionData();
   const dispatch = useDispatch();
